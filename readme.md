@@ -26,7 +26,7 @@ BugTracker is a web application that allows development teams to track, manage a
 ## 🛠️ Technologies
 
 - **Backend**: PHP 8.x
-- **Database**: MySQL (MariaDB)
+- **Database**: MySQL 
 - **Frontend**: HTML5, CSS3, JavaScript
 - **Font**: Space Grotesk
 - **Version Control**: Git & GitHub
