@@ -1,5 +1,5 @@
 -- BugTracker Database
--- Creation script for MySQL/MariaDB
+-- Creation script for MySQL
 
 -- Create database
 CREATE DATABASE IF NOT EXISTS bugtracker CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
