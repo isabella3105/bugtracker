@@ -45,6 +45,10 @@ $error = isset($_GET['error']) ? $_GET['error'] : '';
                     <div class="error">Invalid email or password</div>
                 <?php endif; ?>
                 
+                <?php if (isset($_GET['success']) && $_GET['success'] == 'registered'): ?>
+                    <div class="success">Account created successfully! Please login.</div>
+                <?php endif; ?>
+                
                 <form action="../actions/authenticate.php" method="POST">
                     <div class="form-group">
                         <label class="form-label">Email Address</label>
