@@ -35,7 +35,7 @@ BugTracker is a web application that allows development teams to track, manage a
 
 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/bugtracker.git
+git clone https://github.com/isabella3105/bugtracker.git
 cd bugtracker
 ```
 
@@ -87,4 +87,4 @@ Academic project - L'École Multimédia 2025
 
 ## 👤 Author
 
-Isabella Digilio - CDA 2nd Year Student
+Isabella Digilio - CDA 2nd 2025
